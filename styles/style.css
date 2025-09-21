@@ -1,0 +1,24 @@
+body {
+    height: 100vh;
+    margin: 0;
+    align-items: center;
+    background: linear-gradient(to bottom, #f38d96, #8e8e8e);
+    color: white;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+img {
+    border: 0px solid #000;
+    border-radius: 20px;
+    max-width: 100%;
+    height: auto;    
+}
+h2, h3, h4, h5, h6 {
+    color: #000;
+    text-align: center;
+    font-size: 24px;
+    margin: 10px 0;
+}
+p {
+    font-size: 18px;
+}
